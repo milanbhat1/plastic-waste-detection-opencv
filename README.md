@@ -60,6 +60,15 @@ With a 93% accuracy and high-speed processing, the system shows real-world poten
 
 ---
 
+
+## Dataset & Resources
+
+You can download the dataset, trained model, and sample output images from the release below:
+
+ [Download Project Files (v1.0)](https://github.com/milanbhat1/plastic-waste-detection-opencv/releases/tag/v1.0)
+
+---
+
 ## VII. References
 
 1. Adeshina SA et al. (2019). _Plastic trash sorting system_  
