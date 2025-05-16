@@ -36,11 +36,12 @@ This system:
 - **Accuracy**: 93%
 - **Real-time speed**: 25 FPS
 
-### 🔍 Sample Output Results
+###  Sample Output Results
 
 | Sample 1 | Sample 2 | Sample 3 |
-|---------|----------|----------|
-| ![Result 1](images/result1.jpg) | ![Result 2](images/result2.jpg) | ![Result 3](images/result3.jpg) |
+|----------|----------|----------|
+| <img src="images/result1.jpg" width="350"/> | <img src="images/result2.jpg" width="250"/> | <img src="images/result3.jpg" width="350"/> |
+
 
 ---
 
