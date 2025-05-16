@@ -88,6 +88,28 @@ You can download the dataset, trained model, and sample output images from the r
 - **Smart Bin Monitoring** – Automated waste classification and logging  
 - **Advanced Material Training** – Detect laminates, multilayers, and composites
 
+
+---
+
+## Contributors
+
+- **Ballambettu Milan Shankar Bhat**  
+  USN: `4NI23EC019`
+
+- **Anirudha Jayaprakash**  
+  USN: `4NI23EC014`
+
+- **Adithya Y**  
+  USN: `4NI23EC005`
+
+- **Nutan Ganesh Hegde**  
+  USN: `4NI23EC069`
+
+- **Chandan Shridar Hegde**  
+  USN: `4NI23EC022`
+
+- **Daivik I Vinayaka**  
+  USN: `4NI23EC023`
 ---
 
 > Built with: Python • OpenCV • YOLOv8 • CVAT  
