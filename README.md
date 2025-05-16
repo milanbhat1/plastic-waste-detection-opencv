@@ -1,5 +1,21 @@
 # Plastic Segregation Using Computer Vision
 
+## Table of Contents
+
+- [I. Introduction](#i-introduction)  
+- [II. Project Description](#ii-project-description)  
+- [III. Methodology](#iii-methodology)  
+- [IV. Results](#iv-results)  
+- [Sample Output Results](#sample-output-results)  
+- [V. Discussion](#v-discussion)  
+- [VI. Conclusion](#vi-conclusion)  
+- [Dataset & Resources](#dataset--resources)  
+- [VII. References](#vii-references)  
+- [VIII. Future Scope](#viii-future-scope)  
+- [Contributors](#contributors)  
+
+---
+
 ## I. Introduction
 
 Plastic waste poses a significant environmental challenge globally. Manual sorting is inefficient and error-prone, making recycling efforts less effective. This project presents a computer vision-based system using YOLO, OpenCV, and Python to automate real-time plastic waste detection and classification.
@@ -95,19 +111,14 @@ You can download the dataset, trained model, and sample output images from the r
 
 - **Ballambettu Milan Shankar Bhat**  
   USN: `4NI23EC019`
-
 - **Anirudha Jayaprakash**  
   USN: `4NI23EC014`
-
 - **Adithya Y**  
   USN: `4NI23EC005`
-
 - **Nutan Ganesh Hegde**  
   USN: `4NI23EC069`
-
 - **Chandan Shridar Hegde**  
   USN: `4NI23EC022`
-
 - **Daivik I Vinayaka**  
   USN: `4NI23EC023`
 ---
