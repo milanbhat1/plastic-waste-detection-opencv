@@ -17,7 +17,7 @@ This system:
 
 ### System Block Diagram
 
-![System Block Diagram](images/block_diagram.png)
+![System Block Diagram](images/block_diagram.jpg)
 
 ---
 
