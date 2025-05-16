@@ -15,7 +15,7 @@ This system:
 - Employs OpenCV for real-time image processing
 - Uses CVAT for dataset annotation
 
-### 📊 System Block Diagram
+### System Block Diagram
 
 ![System Block Diagram](images/block_diagram.png)
 
